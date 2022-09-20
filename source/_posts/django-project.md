@@ -2,6 +2,7 @@
 title: Django 项目结构
 date: 2022-06-9 11:36:20
 tags: Django
+categories: 技术
 ---
 
 让我们来学习一下 Django 的项目结构: Django 的项目并不需要手动创建, 官方文档会推荐你使用 Django 提供的 **脚手架** 创建:
